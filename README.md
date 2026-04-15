@@ -1,5 +1,4 @@
 # AI-Marketing-Lab-Generative-AI-Recommendation
-# Generative AI and Recommendation Engine
 
 ## Overview
 
