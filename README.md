@@ -121,4 +121,6 @@ https://colab.research.google.com/drive/1UBJMBeUvtyEhWudrumwcF_mQPjtJZAZY?usp=sh
 
 ## Author
 Simarjeet Kaur 
-LinkedIn: www.linkedin.com/in/Preeti-HR
+
+## LinkedIn
+https://www.linkedin.com/in/simarjeet-kaur2004/
